@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>I'm a passionate Computer Science student with a strong curiosity for solving complex problems that have a meaningful impact on society. I thrive on challenges that push my limits and allow me to think critically and creatively. Whether it’s designing innovative software solutions, contributing to open-source projects, or exploring new technologies, I am always eager to learn and grow.
 
 I believe that technology has the power to create positive change, and I’m particularly interested in working on projects that address real-world problems—whether that’s through improving accessibility, advancing sustainability, or optimizing systems for better efficiency and scalability.
@@ -29,6 +28,10 @@ I believe that technology has the power to create positive change, and I’m par
 Through my journey as a student and developer, I've gained hands-on experience in various areas of computer science, from algorithm design to system architecture. My goal is to continue building skills, collaborating with others, and contributing to projects that not only push the boundaries of technology but also benefit communities and society at large.
 
 If you're interested in collaborating on challenging projects or just want to connect, feel free to reach out!</p>
+<div align="center">
+    <p>I'm a passionate Computer Science student with a strong curiosity for solving complex problems that have a meaningful impact on society. I thrive on challenges that push my limits and allow me to think critically and creatively. Whether it’s designing innovative software solutions, contributing to open-source projects, or exploring new technologies, I am always eager to learn and grow. I believe that technology has the power to create positive change, and I’m particularly interested in working on projects that address real-world problems—whether that’s through improving accessibility, advancing sustainability, or optimizing systems for better efficiency and scalability. Through my journey as a student and developer, I've gained hands-on experience in various areas of computer science, from algorithm design to system architecture. My goal is to continue building skills, collaborating with others, and contributing to projects that not only push the boundaries of technology but also benefit communities and society at large. If you're interested in collaborating on challenging projects or just want to connect, feel free to reach out!</p>
+</div>
+
 </div>
 
 <div align="center">
